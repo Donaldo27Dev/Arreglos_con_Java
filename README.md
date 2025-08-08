@@ -3,7 +3,7 @@
 En este ropositorio comparto algunas formas de trabajar con arreglos en Java, trato de documentar cada archivo con la finalidad de explicar la lógica que se sigue en cada programa.
 > [!TIP] 
 > Estos recursos pueden ser útiles para aprender y repasar el tema de Arreglos en Java.
-Algunos ejemplos son:
+> Algunos ejemplos son:
 ## TEMAS
 1. Declaracion e inicializacion de arreglos
 2. Recorrer los elementos de un arreglo con el loop for, while y Do while
